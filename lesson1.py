@@ -31,7 +31,8 @@ print("Welcome to Fantasy Quest!")
 # SyntaxError: Missing parentheses in call.
 # Note: Python 3 requires parntheses around function inputs.
 #
-# THE GHOST ERROR print("Welcome to Fantasy Quest! ⚔️") ->
+# THE GHOST ERROR (AI used to create it)
+# print("Welcome to Fantasy Quest! ⚔️") ->
 # Triggers character drop.
 # On my Windows PowerShell screen, this displays as:
 # Welcome to Fantasy Quest! ??
